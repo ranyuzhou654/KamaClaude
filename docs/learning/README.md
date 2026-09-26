@@ -19,6 +19,7 @@
 | 8 | [08-s6-context-governance.md](08-s6-context-governance.md) | S6 上下文治理 | 三层记忆文件、context 水位、tool_result 截断、compact、流重试 |
 | 9 | [09-s7-skills-subagents-mcp.md](09-s7-skills-subagents-mcp.md) | S7 扩展边界 | Skills、Subagents、多 Agent 编排、MCP 外部工具 |
 | 10 | [10-end-to-end-recap.md](10-end-to-end-recap.md) | 全链路串讲 | 一条消息从敲下回车到渲染完毕，经过的每一行关键代码 |
+| 11 | [11-issues-and-extensions.md](11-issues-and-extensions.md) | 问题与拓展 | 30 个问题（含复现脚本与修复思路）、架构层面的深层思考、分批拓展路线 |
 
 ## 每篇文档的固定结构
 
